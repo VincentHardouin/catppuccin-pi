@@ -1,0 +1,22 @@
+{
+	"name": "@vincenthardouin/catppuccin-pi",
+	"version": "1.0.0",
+	"description": "Catppuccin themes for Pi",
+	"license": "MIT",
+	"author": "Vincent Hardouin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VincentHardouin/catppuccin-pi"
+	},
+	"pi": {
+		"themes": ["./themes"]
+	},
+	"keywords": [
+		"catppuccin",
+		"pi",
+		"pi-mono",
+		"theme",
+		"tui",
+		"pastel"
+	]
+}
